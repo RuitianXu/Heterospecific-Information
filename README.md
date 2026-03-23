@@ -4,9 +4,8 @@
 
 This repository contains the raw data, metadata, and R scripts required to reproduce the statistical analyses and figures for the manuscript:
 
-**"Beyond food cues: safety signals facilitate scavenger mutualism under human disturbance and food abundance"**  
+**Beyond food cues: safety signals facilitate scavenger mutualism under human disturbance and food abundance**  
 *Ruitian Xu, Yu Guan, Hongfang Wang, Nan Lyu, Lei Bao, Jianping Ge*  
-*(Submitted to Proceedings of the Royal Society B: Biological Sciences)*
 
 ## 📂 Repository Structure
 
@@ -64,4 +63,4 @@ install.packages(c("broom", "broom.mixed", "DiagrammeR", "DiagrammeRsvg", "rsvg"
 
 ## 📝 License & Contact
 
-This project is licensed under the MIT License. If you have any questions regarding the data or code, please contact Ruitian Xu or the corresponding authors listed in the manuscript.
+This project is licensed under the MIT License. If you have any questions regarding the data or code, please contact Ruitian Xu (<ruitian_xu@163.com>) or the corresponding authors listed in the manuscript.
