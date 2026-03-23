@@ -1,0 +1,2 @@
+contrast,odds.ratio,SE,df,asymp.LCL,asymp.UCL,null,z.ratio,p.value,comparison,is_significant
+Before / After,0.3778577222355073,0.02620730142167266,Inf,0.32983065227010044,0.432878076280446,1,-14.032170580201509,9.907221081771074e-45,Before vs After,Yes (*)

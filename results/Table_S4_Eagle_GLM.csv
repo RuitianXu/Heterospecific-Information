@@ -1,0 +1,5 @@
+"term","estimate","std.error","statistic","p.value"
+"(Intercept)",0.7673,0.328,2.339,0.0193
+"Food_Amount",0.0634,0.0113,5.5981,0
+"Distance",0.0035,0.0029,1.2303,0.2186
+"Food_Amount:Distance",-1e-04,1e-04,-1.1671,0.2432

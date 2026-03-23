@@ -1,0 +1,5 @@
+"Predictor","Coefficient","Std_Error","Lower_95_CI","Upper_95_CI","Chi_Square","p_value"
+"(Intercept)",-1.116,0.763,-3.664,0.246,2.426,0.119
+"Crow_Signal_fCrows Present",5.618,2.328,1.768,13.896,13.111,0
+"scaled_Disturbance",1.347,0.906,-0.348,4.384,2.133,0.144
+"scaled_Feed",0.82,0.744,-0.736,3.044,0.941,0.332

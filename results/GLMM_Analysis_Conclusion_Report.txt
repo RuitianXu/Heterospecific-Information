@@ -1,0 +1,6 @@
+      GLMM Analysis Conclusion: Crow Feeding Investment
+
+[1] Main Effect of Intervention Phase (Before vs After):
+   - P-value: 0.0000
+   - Odds Ratio: 0.378
+   - Conclusion: The proportion of head-down feeding significantly increased after eagle intervention.
