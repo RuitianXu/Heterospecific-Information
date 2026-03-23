@@ -5,7 +5,7 @@
 This repository contains the raw data, metadata, and R scripts required to reproduce the statistical analyses and figures for the manuscript:
 
 **Beyond food cues: safety signals facilitate scavenger mutualism under human disturbance and food abundance**  
-*Ruitian Xu, Yu Guan, Hongfang Wang, Nan Lyu, Lei Bao, Jianping Ge*  
+*Ruitian Xu, Hongfang Wang, Nan Lyu, Yu Guan, Lei Bao, Jianping Ge*  
 
 ## 📂 Repository Structure
 
